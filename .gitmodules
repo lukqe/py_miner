@@ -1,0 +1,6 @@
+[submodule "lib/xmr-stak"]
+	path = lib/xmr-stak
+	url = https://github.com/fireice-uk/xmr-stak.git
+[submodule "lib/pybind11"]
+	path = lib/pybind11
+	url = https://github.com/pybind/pybind11.git
